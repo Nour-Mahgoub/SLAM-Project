@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/root/slam_project/build/gtest/cmake_install.cmake")
   include("/root/slam_project/build/slam_gmapping/cmake_install.cmake")
+  include("/root/slam_project/build/turtlebot3_navigation/cmake_install.cmake")
   include("/root/slam_project/build/turtlebot3_simulations/turtlebot3_simulations/cmake_install.cmake")
   include("/root/slam_project/build/turtlebot3_simulations/turtlebot3_fake/cmake_install.cmake")
   include("/root/slam_project/build/turtlebot3_simulations/turtlebot3_gazebo/cmake_install.cmake")

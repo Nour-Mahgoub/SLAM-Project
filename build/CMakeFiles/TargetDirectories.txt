@@ -43,6 +43,13 @@
 /root/slam_project/build/slam_gmapping/CMakeFiles/edit_cache.dir
 /root/slam_project/build/slam_gmapping/CMakeFiles/test.dir
 /root/slam_project/build/slam_gmapping/CMakeFiles/_catkin_empty_exported_target.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/install/strip.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/install/local.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/install.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/list_install_components.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/rebuild_cache.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/edit_cache.dir
+/root/slam_project/build/turtlebot3_navigation/CMakeFiles/test.dir
 /root/slam_project/build/turtlebot3_simulations/turtlebot3_simulations/CMakeFiles/install/strip.dir
 /root/slam_project/build/turtlebot3_simulations/turtlebot3_simulations/CMakeFiles/install/local.dir
 /root/slam_project/build/turtlebot3_simulations/turtlebot3_simulations/CMakeFiles/install.dir
